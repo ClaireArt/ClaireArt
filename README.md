@@ -2,11 +2,9 @@
 
 ## Connect with me:
 ## Languages and Tools:
+![HTML5_logo_and_wordmark svg](https://github.com/user-attachments/assets/fc0b1c0a-64d5-4167-a701-13459631ed26) 
+![css3-logo-png-transparent](https://github.com/user-attachments/assets/b011a9f0-87a9-4189-8ea8-61d39b9b43b4)
 
-HTML5
-CSS3
-JavaScript
-React
 
 
 <!--
