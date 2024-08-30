@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Claire 👋
+
+## Connect with me:
+## https://www.instagram.com/claireart11.ru/
 
 <!--
 **ClaireArt/ClaireArt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
