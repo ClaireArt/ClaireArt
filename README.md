@@ -1,5 +1,6 @@
 ## Hi there, I'm Claire 👋
-I'm a frontend developer~
+I'm a frontend developer . Has practicipated in HTML, CSS, JavaScript, React, Redux course and internship-development of a system, creation and passing of tests, front-end part, work with API requests~ 
+
 
 ## Languages and Tools:
 
